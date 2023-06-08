@@ -1,7 +1,9 @@
 # Multi-Strategy-Reinforcement-Learning-in-Financial-Markets
 paper ’Multi-Strategy Reinforcement Learning in Financial Markets‘ Experimental code.
 
-The main difference between him and FSRL is that FSRL is constantly updated, but this program is not.
+
+
+The main difference between him and [FSRL](https://github.com/XingYu-Zhong/FSRL) is that [FSRL](https://github.com/XingYu-Zhong/FSRL) is constantly updated, but this program is not.
 
 
 Note:experimentaldata is the data containing the experimentally trained model and test data from the thesis
