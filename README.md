@@ -1,5 +1,5 @@
 # Multi-Strategy-Reinforcement-Learning-in-Financial-Markets
-paper ’Multi-Strategy Reinforcement Learning in Financial Markets‘ Experimental code.
+paper ’Deep Reinforcement Learning for Dynamic Strategy Interchange in Financial Markets‘ Experimental code.
 
 
 
